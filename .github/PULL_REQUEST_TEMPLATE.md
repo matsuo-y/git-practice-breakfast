@@ -11,6 +11,6 @@ before | after
 
 
 ## 判定基準
-- [ ] 修正内容が適用されていることを[heroku のreview app環境](https://production-git-practice-breakfast-pr-{N}.herokuapp.com)で確認できた
+- [ ] 修正内容が適用されていることを[heroku のreview app環境](https://git-practice-breakfast-pr-{N}.herokuapp.com)で確認できた
 - [ ] ブランチが適切なブランチから作成されていることを [Network](https://github.com/matsuo-y/git-practice-breakfast/network)で確認できた
 - [ ] プルリク先に適切なブランチが選択されていることを確認できた
