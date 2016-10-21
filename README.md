@@ -1,2 +1,2 @@
-# my-site-github-breakfast
+# git-practice-breakfast
 朝食用のリポジトリ
